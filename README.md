@@ -103,10 +103,6 @@ This project is for educational purposes only and should not be used for medical
 - Add Grad-CAM visualization  
 - Deploy on cloud (AWS / GCP / Azure)  
 
----
-
-## 👨‍💻 Author
-Kalki Prathisha K
 
 
 ## UI Snapshot:
